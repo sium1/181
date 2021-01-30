@@ -7,5 +7,5 @@ mul(5,6)
 def div(x,y):
 	print(x/y)
 
-div(x/y)
+div(6,3)
 
