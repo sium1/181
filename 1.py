@@ -9,3 +9,6 @@ def div(x,y):
 
 div(6,3)
 
+def minus(x,y):
+	print(x-y)
+minus(6,5)
