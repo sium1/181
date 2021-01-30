@@ -9,3 +9,6 @@ def div(x,y):
 
 div(6,3)
 
+def welcome(x):
+	print('hello'+x)
+welcome('sium')
